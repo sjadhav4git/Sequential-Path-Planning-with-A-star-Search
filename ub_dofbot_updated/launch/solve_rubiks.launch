@@ -1,0 +1,5 @@
+<launch>
+    <!-- <node name = "simple_publisher" type = "test_for_launch.py" pkg = "ub_dofbot_updated" output="screen"> -->
+    <node name = "joint_var_node" type = "joint_var_publisher_launch.py" pkg = "ub_dofbot_updated" output="screen">
+    </node>
+</launch>
