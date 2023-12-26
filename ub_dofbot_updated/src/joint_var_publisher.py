@@ -87,7 +87,7 @@ if __name__ == "__main__":
         print ("Sanket try successfully feed = 130 moves/sec for step size 2mm")
         print ("\nBest moves/sec found 30, for step size 5mm\n[step size = dist in detailed_path_generate function in main file]\n")
         # feed_moves  = int(input("Enter feed (no. of moves per second): ",)or "1") 
-        feed_moves = int(30)
+        feed_moves = int(30) ## moves/sec
         rospy.sleep(2)
         solve_moves(feed_moves,joint_var)
 
