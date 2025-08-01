@@ -1,4 +1,4 @@
-# ub_dofbot_updated_FINAL_VERSION
+# ub_dofbot_FINAL_VERSION- Implemention of Sequencial Path Planning
 This repo contains all codes run at the time of demonstration and at demo day competition
 
 ## Run following command:
